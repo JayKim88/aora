@@ -1,4 +1,4 @@
-# React Native Course for Beginners in 2024 | Build a Full Stack React Native App
+# Aora - AI Generated video sharing app
 
 ## Stacks
 
